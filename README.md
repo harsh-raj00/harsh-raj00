@@ -130,8 +130,8 @@ The best way to stay relevant is to remain curious, keep building, and never sto
 
 <div align="center">
 
-### 💻 Code • 🌐 Build • 🤖 Innovate
+### 🚀 Code • Build • Learn • Repeat
 
-*"Great software solves problems. Great AI creates possibilities."*
+*"Stay curious. Keep building."*
 
 </div>
