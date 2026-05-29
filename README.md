@@ -58,15 +58,19 @@ Open Source
 
 ---
 
-## 💭 My Philosophy
+## ⚡ Developer Mindset
 
-```python id="vgj3dn"
-while alive:
+```python
+while True:
     learn()
     build()
-    share()
+    innovate()
+    collaborate()
     improve()
 ```
+
+---
+
 
 Technology evolves every day.
 
