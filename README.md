@@ -45,16 +45,43 @@ Open Source
 
 ---
 
-## ⚡ What I Do
+## 🎯 What I Do
 
-```text id="m9p5g0"
-💻 Build Software
-🌐 Create Modern Web Applications
-🤖 Train & Deploy AI Models
-📊 Work With Data
-⚙️ Design Backend Systems
-🚀 Turn Ideas Into Products
-```
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻
+
+### Coding
+
+Building efficient software and solving complex problems through clean, scalable code.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐
+
+### Web Development
+
+Creating responsive, modern, and user-friendly web experiences.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖
+
+### Machine Learning
+
+Exploring intelligent systems that learn, predict, and adapt.
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
