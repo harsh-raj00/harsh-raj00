@@ -155,6 +155,9 @@ The best way to stay relevant is to remain curious, keep building, and never sto
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+🌐 **Live Portfolio:** [portfolio-livid-five-82.vercel.app](https://portfolio-livid-five-82.vercel.app/)
+
+
 </p>
 
 ---
