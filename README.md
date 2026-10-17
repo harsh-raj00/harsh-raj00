@@ -144,21 +144,17 @@ The best way to stay relevant is to remain curious, keep building, and never sto
 ## 🌎 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/harsh-raj00">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-
-
+&nbsp;
 <a href="mailto:harsh546raj@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-livid-five-82.vercel.app/)
-
-
-
+&nbsp;
+<a href="https://portfolio-livid-five-82.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio"/>
+</a>
 </p>
 
 ---
