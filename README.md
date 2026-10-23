@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Hey! I'm **Harsh Raj** 👋
 
@@ -20,9 +20,9 @@ I'm passionate about building impactful technology at the intersection of:
 
 💻 **Software Engineering**
 
-🌐 **Web Development**
+ **Web Development**
 
-🤖 **Machine Learning**
+ **Machine Learning**
 
 I enjoy creating systems that are not only functional but intelligent, scalable, and useful.
 
@@ -45,7 +45,7 @@ Open Source
 
 ---
 
-## 🎯 What I Do
+##  What I Do
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ Building efficient software and solving complex problems through clean, scalable
 
 <td align="center" width="33%">
 
-### 🌐
+### 
 
 ### Web Development
 
@@ -71,7 +71,7 @@ Creating responsive, modern, and user-friendly web experiences.
 
 <td align="center" width="33%">
 
-### 🤖
+### 
 
 ### Machine Learning
 
@@ -141,7 +141,7 @@ The best way to stay relevant is to remain curious, keep building, and never sto
 
 
 
-## 🌎 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://github.com/harsh-raj00">
@@ -161,7 +161,7 @@ The best way to stay relevant is to remain curious, keep building, and never sto
 
 <div align="center">
 
-### 🚀 Code • Build • Learn • Repeat
+###  Code • Build • Learn • Repeat
 
 *"Stay curious. Keep building."*
 
