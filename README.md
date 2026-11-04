@@ -51,7 +51,7 @@ Open Source
 <tr>
 <td align="center" width="33%">
 
-### 💻
+### 
 
 ### Coding
 
