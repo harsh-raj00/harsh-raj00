@@ -30,7 +30,7 @@ Whether it's developing full-stack applications, designing backend architectures
 
 ---
 
-## 🌱 What I'm Currently Exploring
+##  What I'm Currently Exploring
 
 ```text id="ejt5hy"
 Full Stack Development
@@ -85,7 +85,7 @@ Exploring intelligent systems that learn, predict, and adapt.
 
 ---
 
-## ⚡ Developer Mindset
+##  Developer Mindset
 
 ```python
 while True:
