@@ -14,11 +14,11 @@
 
 ## About Me
 
-Hey! I'm **Harsh Raj** 👋
+Hey! I'm **Harsh Raj** 
 
 I'm passionate about building impactful technology at the intersection of:
 
-💻 **Software Engineering**
+**Software Engineering**
 
  **Web Development**
 
@@ -105,7 +105,7 @@ The best way to stay relevant is to remain curious, keep building, and never sto
 
 ---
 
-## 🛠 Tech Arsenal
+##  Tech Arsenal
 
 ### Languages
 
